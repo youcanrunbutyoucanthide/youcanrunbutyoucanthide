@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Ieva 👋
+
+- 🌱 I'm currently learning Data Analytics @Turing College.
+- 🤸‍♀️ Data visualization and story-telling enthusiast.
+- 👀 I'm looking for opportunities in Data Analytics field.
+- 🎉 I like camping, reading and lego.
+
 
 <!--
 **youcanrunbutyoucanthide/youcanrunbutyoucanthide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
